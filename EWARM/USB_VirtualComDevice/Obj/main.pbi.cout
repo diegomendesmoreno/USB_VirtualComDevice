@@ -1,20 +1,20 @@
-"C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\Src\main.c"
+"C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\Src\main.c"
 -std=c99
 -ferror-limit=100
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM/../Inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM/../Inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM/../Drivers/CMSIS/Include
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM/../Drivers/CMSIS/Include
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM/../Drivers/CMSIS/Device/ST/STM32F0xx/Include
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM/../Drivers/CMSIS/Device/ST/STM32F0xx/Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
 -I
@@ -22,19 +22,19 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc\c
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\Inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\Inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\Drivers\STM32F0xx_HAL_Driver\Inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\Drivers\STM32F0xx_HAL_Driver\Inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\Drivers\STM32F0xx_HAL_Driver\Inc\Legacy
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\Drivers\STM32F0xx_HAL_Driver\Inc\Legacy
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\Middlewares\ST\STM32_USB_Device_Library\Core\Inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\Middlewares\ST\STM32_USB_Device_Library\Core\Inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\Drivers\CMSIS\Include
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\Drivers\CMSIS\Include
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\Drivers\CMSIS\Device\ST\STM32F0xx\Include
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\Drivers\CMSIS\Device\ST\STM32F0xx\Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
 -DUSE_HAL_DRIVER=1

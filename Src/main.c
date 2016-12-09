@@ -36,7 +36,21 @@
 #include "gpio.h"
 
 /* USER CODE BEGIN Includes */
+//------------------------------------------------------------------------------
+/* Projeto    : USB_VirtualComDevice
+ * MCU        : STM32F072RB (32F072BDISCOVERY)
+ * Copyright  : Atribuição (CC BY 4.0) Diego Moreno
+ * Versão     : 1.0.0
+ * Data	      : 01/07/2016
+ * Descrição  : Cria uma interface USB/Serial com o PC, para que seja possível
+ *              pisca os LEDs da placa 32F072BDISCOVERY com o teclado e um
+ *              terminal.
+ */
 
+/* Includes */
+
+
+//------------------------------------------------------------------------------
 /* USER CODE END Includes */
 
 /* Private variables ---------------------------------------------------------*/

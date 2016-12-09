@@ -1,82 +1,82 @@
 ###############################################################################
 #
-# IAR ELF Linker V7.40.3.8902/W32 for ARM                 28/Jun/2016  18:48:15
+# IAR ELF Linker V7.40.3.8902/W32 for ARM                 09/Dec/2016  17:01:23
 # Copyright 2007-2015 IAR Systems AB.
 #
 #    Output file  =  
 #        C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Exe\USB_VirtualComDevice.out
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Exe\USB_VirtualComDevice.out
 #    Map file     =  
 #        C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice/List\USB_VirtualComDevice.map
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice/List\USB_VirtualComDevice.map
 #    Command line =  
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\gpio.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\gpio.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\main.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\main.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\startup_stm32f072xb.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\startup_stm32f072xb.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_cortex.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_cortex.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_dma.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_dma.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_flash.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_flash.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_flash_ex.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_flash_ex.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_gpio.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_gpio.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_i2c.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_i2c.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_i2c_ex.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_i2c_ex.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_msp.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_msp.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_pcd.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_pcd.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_pcd_ex.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_pcd_ex.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_pwr.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_pwr.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_pwr_ex.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_pwr_ex.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_rcc.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_rcc.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_rcc_ex.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_rcc_ex.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_tim.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_tim.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_tim_ex.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_hal_tim_ex.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_it.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\stm32f0xx_it.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\system_stm32f0xx.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\system_stm32f0xx.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usb_device.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usb_device.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_cdc.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_cdc.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_cdc_if.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_cdc_if.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_conf.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_conf.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_core.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_core.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_ctlreq.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_ctlreq.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_desc.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_desc.o"
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_ioreq.o"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj\usbd_ioreq.o"
 #        --redirect _Printf=_PrintfFull --redirect _Scanf=_ScanfFull -o
 #        "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Exe\USB_VirtualComDevice.out"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Exe\USB_VirtualComDevice.out"
 #        --map "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice/List\USB_VirtualComDevice.map"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice/List\USB_VirtualComDevice.map"
 #        --config "C:\Users\engenharia\Documents\Diego
-#        Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM/stm32f072xb_flash.icf"
+#        Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM/stm32f072xb_flash.icf"
 #        --semihosting --entry __iar_program_start --vfe
 #
 ###############################################################################
@@ -224,7 +224,7 @@ Copy (__iar_copy_init3)
 
     Module                  ro code  ro data  rw data
     ------                  -------  -------  -------
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj: [1]
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj: [1]
     gpio.o                       92
     main.o                      456        1        1
     startup_stm32f072xb.o       270
@@ -476,7 +476,7 @@ main                    0x08001395  0x108  Code  Gb  main.o [1]
 uwTick                  0x200009c8    0x4  Data  Lc  stm32f0xx_hal.o [1]
 
 
-[1] = C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj
+[1] = C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM32F0\Exemplos\USB_VirtualComDevice\EWARM\USB_VirtualComDevice\Obj
 [2] = command line
 [3] = dl6M_tlf.a
 [4] = rt6M_tl.a
